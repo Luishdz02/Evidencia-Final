@@ -6,7 +6,7 @@ Instalación y Configuración
 
 1. **Requisitos previos**:
    - Java JDK 11+ ([Descargar aquí](https://www.oracle.com/java/technologies/javase-downloads.html)).
-   - Git (para clonar el repositorio).
+   
 
 2. **Clonar y compilar**:
    ```bash
@@ -21,4 +21,5 @@ Herramientas utilizadas: Java, Git, intellij Idea
 
 Licencia
 Este proyecto está bajo la licencia (Lincese Luis Hernandez)
+
 java Main.java
