@@ -1,1 +1,13 @@
-"C:\Users\luish\Downloads\Diagrama de flujo.png"
+Diagrama de flujo
+    A[Inicio de Sesión] --> B[Menú Principal]
+    B --> C[Registrar Doctor]
+    B --> D[Registrar Paciente]
+    B --> E[Crear Cita]
+    B --> F[Salir]
+Clases principales:
+
+Clase-Propósito
+Doctor-Almacena datos de doctores (ID, nombre, especialidad).
+Paciente-Gestiona información de pacientes.
+Cita-Relaciona doctores, pacientes, fecha y motivo.
+Administrador-Controla acceso al sistema.
