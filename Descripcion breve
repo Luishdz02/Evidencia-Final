@@ -1,0 +1,10 @@
+Descripción breve:
+"Aplicación de gestión de citas médicas que permite administrar doctores, pacientes y citas, con control de acceso para administradores. Desarrollada en Java (JDK 11) con enfoque en POO y persistencia en memoria."
+
+Características principales:
+
+Registro de doctores y pacientes.
+
+Creación de citas vinculadas a doctores/pacientes.
+
+Autenticación de administradores.
